@@ -138,8 +138,7 @@ the two remotes rather than firing both in the same frame.
 
 ## Known open items
 
-Documented in `CLAUDE_OLD_CONTEXT.md` / `docs/Implementation_Prompts.md` and carried
-forward honestly rather than scrubbed from history:
+Carried forward honestly rather than scrubbed from history:
 
 - Panel-open buttons (Settings/Achievements/Daily Reward) had a period of
   unresponsiveness under static review with no confirmed root cause; suspected but
