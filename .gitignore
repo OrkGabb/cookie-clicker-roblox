@@ -1,0 +1,11 @@
+# Project place file
+/WORKV3.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Build/test place files (generated via `rojo build`, not source)
+*.rbxl
+
+sourcemap.json

@@ -1,0 +1,33 @@
+{
+  "name": "ModularFramework",
+  "tree": {
+    "$className": "DataModel",
+    "Players": {
+      "$properties": {
+        "CharacterAutoLoads": false
+      }
+    },
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/Shared"
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/Server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/Client"
+        }
+      }
+    },
+    "Workspace": {
+      "$properties": {
+        "FilteringEnabled": true
+      }
+    }
+  }
+}
