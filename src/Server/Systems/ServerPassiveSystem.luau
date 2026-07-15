@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- Server-authoritative passive income. The client PassiveSystem is now pure
 -- prediction; THIS is the source of truth that purchases are validated against.
 local Players = game:GetService("Players")

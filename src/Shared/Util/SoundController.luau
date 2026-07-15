@@ -1,5 +1,5 @@
 --!strict
--- @author OrkGabb
+--@author OrkGabb
 -- SSoT for game audio: UI/click SFX, toast cues, and the background music cycler.
 -- All one-shots route through the "SFX" SoundGroup and music through "Music", so the
 -- Master/SFX/Music volume settings (see SoundController.ApplyVolumes) control everything.

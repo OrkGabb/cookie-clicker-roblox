@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ProfileService = require(script.Parent.Parent.Modules.ProfileService) :: any

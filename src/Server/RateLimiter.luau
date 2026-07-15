@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/RateLimiter.luau
 --
 -- Canonical per-player rate limiter for currency-earning actions: a lazily

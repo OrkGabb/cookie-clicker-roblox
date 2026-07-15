@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Theme = {
 	Colors = {
 		-- Cookie / chocolate / cupcake palette (SSoT)

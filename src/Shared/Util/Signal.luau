@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 type Callback = (...any) -> ()
 type ConnectionData = { callback: Callback, active: boolean }
 export type Connection = {

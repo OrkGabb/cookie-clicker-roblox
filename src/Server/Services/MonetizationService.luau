@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local DataService = require(script.Parent.DataService)
 
 local MonetizationService = {}

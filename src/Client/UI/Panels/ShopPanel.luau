@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- Robux shop. Lists every ShopConfig product with a live price pulled from
 -- MarketplaceService (never hardcoded). Buy buttons fire the native purchase prompt;
 -- the server (ShopService) is the sole authority that actually grants rewards.

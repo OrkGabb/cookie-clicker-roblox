@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Declare = require(script.Parent.Parent.Declare)
 local WindowShadow = require(script.Parent.WindowShadow)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

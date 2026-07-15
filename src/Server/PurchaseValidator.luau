@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/PurchaseValidator.luau
 --
 -- Server-to-client upgrade-purchase validation. The invariant, from both

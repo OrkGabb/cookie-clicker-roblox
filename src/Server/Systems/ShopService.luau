@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- Server-authoritative shop. Owns the single MarketplaceService.ProcessReceipt callback
 -- (idempotent, persisted per-profile) and grants gamepass perks via
 -- PromptGamePassPurchaseFinished. Rewards come from the shared ShopConfig SSoT — never

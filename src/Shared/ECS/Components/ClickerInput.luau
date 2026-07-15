@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local ClickerInput = {}
 export type ClickerInput = {
 	lastClick:     number,

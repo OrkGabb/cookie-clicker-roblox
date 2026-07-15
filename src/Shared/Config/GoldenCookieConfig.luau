@@ -1,6 +1,6 @@
 --!strict
 -- SSoT for golden cookie cadence + reward tiers.
--- @author OrkGabb
+--@author OrkGabb
 local GoldenCookieConfig = {
 	SpawnIntervalRange = { Min = 45, Max = 90 }, -- production cadence (random 45–90s)
 	DescentDuration = 10,

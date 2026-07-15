@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/ReceiptProcessor.luau
 --
 -- Idempotent MarketplaceService.ProcessReceipt for developer products. Owns

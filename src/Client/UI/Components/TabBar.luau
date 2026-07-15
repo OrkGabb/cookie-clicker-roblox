@@ -1,5 +1,5 @@
 --!strict
--- @author OrkGabb
+--@author OrkGabb
 -- Generic, reusable tab bar. Fully props-driven — no hardcoded tab labels (OCP), so any
 -- panel can compose it. Tracks the active tab internally, highlights it with theme tokens,
 -- and fires onTab(index) when the selection changes.

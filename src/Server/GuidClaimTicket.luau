@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/GuidClaimTicket.luau
 --
 -- One-shot GUID claim-validation ticket (anti-duplication).

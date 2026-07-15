@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local CurrencyComp = require(script.Parent.Parent.Components.Currency)
 
 local EffectRegistry = {}

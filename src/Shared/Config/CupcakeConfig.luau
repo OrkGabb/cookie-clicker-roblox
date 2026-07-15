@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- SSoT for the Cupcake (CPK) system.
 --
 -- MilestoneCosts: keyed by upgrade id. Each value is the ordered list of cupcake

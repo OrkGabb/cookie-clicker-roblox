@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local DataService = require(script.Parent.Services.DataService)
 local MonetizationService = require(script.Parent.Services.MonetizationService)
 local ValidationSystem = require(script.Parent.Systems.ValidationSystem)

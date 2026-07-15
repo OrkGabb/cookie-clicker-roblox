@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/ClickEconomy.luau
 --
 -- Authoritative click -> currency pipeline. ONE entry point for every earning

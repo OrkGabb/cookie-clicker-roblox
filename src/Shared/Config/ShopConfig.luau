@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- SSoT for the Robux shop (gamepasses + dev products). Prices are intentionally NOT
 -- stored here — they are fetched live from MarketplaceService:GetProductInfo so the
 -- panel never drifts from the real Roblox price. Server grant logic reads RewardById.

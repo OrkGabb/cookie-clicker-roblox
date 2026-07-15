@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Constants = {
 	CURRENCY_NAME = "Starlight Sugar",
 	CURRENCY_SYMBOL = "⧉",

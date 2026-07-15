@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local DataService = require(script.Parent.Parent.Services.DataService)
 local RateLimiter = require(ReplicatedStorage.Shared.Util.RateLimiter)

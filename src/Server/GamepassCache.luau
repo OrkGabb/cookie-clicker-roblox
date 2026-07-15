@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/GamepassCache.luau
 --
 -- O(1) gamepass-ownership cache: the single source of truth economy code

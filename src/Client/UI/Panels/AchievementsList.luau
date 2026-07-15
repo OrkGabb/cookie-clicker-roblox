@@ -1,5 +1,5 @@
 --!strict
--- @author OrkGabb
+--@author OrkGabb
 -- Achievements content list (cards + scrolling frame) WITHOUT a window chrome. Rendered by
 -- the Achievements tab inside QuestPanel (DRY/SSoT — one source for the view). Achievements
 -- data/logic still lives in AchievementService/AchievementConfig — this is presentation only.

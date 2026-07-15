@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Currency = {}
 export type Currency = {
 	amount: number,

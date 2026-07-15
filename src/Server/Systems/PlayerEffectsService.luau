@@ -6,7 +6,7 @@
 -- join (UserOwnsGamePassAsync is the authoritative real-money source) and refreshed
 -- on in-session purchase via PromptGamePassPurchaseFinished — never polled per frame.
 --
--- @author OrkGabb
+--@author OrkGabb
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

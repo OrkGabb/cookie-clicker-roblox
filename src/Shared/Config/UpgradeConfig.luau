@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Types = require(script.Parent.Parent.Types)
 local UpgradeConfig: {Types.UpgradeDefinition} = {
 	{

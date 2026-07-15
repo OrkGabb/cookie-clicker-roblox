@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Signal = require(script.Parent.Parent.Parent.Util.Signal)
 export type PassiveSystem = {
 	TickEarned: Signal.Signal,

@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/PassiveAccrual.luau
 --
 -- Server-authoritative passive-income accrual. Any client-side passive ticker

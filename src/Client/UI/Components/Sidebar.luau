@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 local Declare = require(script.Parent.Parent.Declare)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AssetIds = require(ReplicatedStorage.Shared.AssetIds)

@@ -1,5 +1,5 @@
 --!strict
--- @Author @OrkGabb
+--@author OrkGabb
 -- AC/Core/CurrencyLedger.luau
 --
 -- THE single choke point for every currency mutation. No service may write a
