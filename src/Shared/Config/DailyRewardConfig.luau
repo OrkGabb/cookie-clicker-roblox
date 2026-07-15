@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local DailyRewardConfig = {
 	{ day = 1, rewardType = "Currency", rewardAmount = 100 },
 	{ day = 2, rewardType = "Currency", rewardAmount = 250 },

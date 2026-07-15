@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 -- Single source of truth for the cookie press/squish animation. Both the manual click
 -- path (ClickerArea's MouseButton1 Down/Up) and the Auto-Clicker per-tick feedback
 -- (VFXSystem:PlayAutoClickFeedback) drive the cookie squish through here, so the tween

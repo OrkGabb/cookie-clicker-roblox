@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 -- Shared themed CTA button — single source of truth for the mint-green action
 -- button used by Shop (Buy/Owned) and Daily Rewards (Claim Reward). It is a
 -- native TextButton (Frame + UICorner + UIStroke + engine font), never a raster

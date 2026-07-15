@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Players = game:GetService("Players")
 local MarketplaceService = game:GetService("MarketplaceService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

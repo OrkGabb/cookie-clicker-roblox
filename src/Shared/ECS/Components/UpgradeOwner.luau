@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local UpgradeOwner = {}
 export type UpgradeOwner = {
 	counts:          {[string]: number},

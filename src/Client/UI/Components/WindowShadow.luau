@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Declare = require(script.Parent.Parent.Declare)
 
 local function WindowShadow(): Instance

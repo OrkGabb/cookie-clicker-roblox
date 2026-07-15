@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 -- SSoT for quests (7c). Reward is CPK (cupcakes). `kind` selects how QuestService
 -- computes live progress from authoritative player data; `target` is the goal.
 -- Reward tiers (doubled per Gabriel): easy = 2, medium = 4, hard = 10.

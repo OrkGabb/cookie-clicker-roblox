@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Types = {}
 
 export type UpgradeKind = string

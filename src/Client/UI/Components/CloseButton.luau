@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Declare = require(script.Parent.Parent.Declare)

@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local NumberFormat = {}
 local SUFFIXES = { "", "k", "M", "B", "T", "Qa", "Qi", "Sx", "Sp", "Oc", "No", "Dc" }
 

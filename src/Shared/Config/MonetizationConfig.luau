@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 -- ⚠️  Replace productId values with your real Roblox IDs from the Creator Hub.
 -- GamePass  → MarketplaceService:PromptGamePassPurchase
 -- DevProduct → MarketplaceService:PromptProductPurchase

@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Declare = require(script.Parent.Parent.Declare)
 local Theme = require(ReplicatedStorage.Shared.UI.Theme)

@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 -- Server-authoritative quest tracking (7c). Progress is recomputed from authoritative
 -- player data on each relevant event; completion awards CPK (cupcakes) and emits
 -- QuestCompleted. Rewards are CPK-only.

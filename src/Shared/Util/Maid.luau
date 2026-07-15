@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Maid = {}
 Maid.__index = Maid
 export type Maid = typeof(setmetatable({} :: { _tasks: { any } }, Maid))

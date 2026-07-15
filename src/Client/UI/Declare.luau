@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Declare = {}
 
 export type Props = {

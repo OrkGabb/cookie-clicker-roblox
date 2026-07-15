@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local RateLimiter = {}
 
 local limits: { [Player]: { [string]: { calls: number, resetTime: number } } } = {}

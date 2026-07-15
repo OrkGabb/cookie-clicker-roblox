@@ -1,3 +1,5 @@
+--!strict
+-- @Author @OrkGabb
 --!nocheck
 -- local Madwork = _G.Madwork
 --[[

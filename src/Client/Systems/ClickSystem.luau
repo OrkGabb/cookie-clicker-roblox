@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.State.GameState)
 

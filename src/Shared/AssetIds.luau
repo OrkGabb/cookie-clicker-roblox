@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local AssetIds = {
 	CookieMain = "rbxassetid://91209073871610", -- TODO: swap when the 2048x2048 version is uploaded
 	CookieMini = "rbxassetid://111299909000922",

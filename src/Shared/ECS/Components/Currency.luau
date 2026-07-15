@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local Currency = {}
 export type Currency = {
 	amount: number,

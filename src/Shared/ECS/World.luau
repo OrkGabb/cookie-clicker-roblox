@@ -1,4 +1,5 @@
 --!strict
+-- @Author @OrkGabb
 local RunService = game:GetService("RunService")
 local Maid       = require(script.Parent.Parent.Util.Maid)
 export type World = {
